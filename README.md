@@ -1,5 +1,6 @@
 # Downloads
   Open resty -> https://openresty.org/en/download.html
+
   Sticky sessions module -> https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/downloads
 # Installation
   uncompress folders
